@@ -1,0 +1,25 @@
+name: emcpy
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - scipy
+  - matplotlib
+  - netcdf4
+  - xarray
+  - xhistogram=0.1.2
+  - dask
+  - pandas
+  - cartopy
+  - cython
+  - jupyter
+  - jupyterlab
+  - pyyaml
+  - autopep8
+  - scikit-learn
+  - pybind11
+  - metpy
+  - pytest
+  - sphinx
+  - sphinx_rtd_theme
