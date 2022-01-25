@@ -9,9 +9,9 @@ Welcome to EMC's one-stop shop for python tools.
 EMCPy currently contains the following submodules:
 
 .. toctree::
-   :maxdepth: 2
-   
-   emcpy.calcs: computations, such as unit conversions, wind speed/direction from u,v vectors etc.
+   :maxdepth: 1
+
+   /reference_guide/index
 
 
 
